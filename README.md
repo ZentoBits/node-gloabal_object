@@ -1,0 +1,1 @@
+# node-gloabal_object
